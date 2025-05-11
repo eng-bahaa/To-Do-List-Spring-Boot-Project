@@ -19,3 +19,12 @@
 - [Project Structure](#project-structure)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+
+## Features
+
+✅ **Task Management**: Full CRUD operations for todo items  
+📝 **Detailed Tasks**: Title, description, due date, and status for each task  
+🔍 **Filtering**: Filter by status (Not Started, In Progress, Completed)  
+🗓️ **Due Date Tracking**: Set and monitor task deadlines  
+🛠️ **RESTful API**: Ready for frontend/mobile integration  
+🗄️ **Database**: H2 in-memory (configurable for production) 
