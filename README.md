@@ -28,3 +28,11 @@
 🗓️ **Due Date Tracking**: Set and monitor task deadlines  
 🛠️ **RESTful API**: Ready for frontend/mobile integration  
 🗄️ **Database**: H2 in-memory (configurable for production) 
+
+## Technologies
+
+- **Backend**: Spring Boot 3.x
+- **Database**: H2 (Embedded), Spring Data JPA
+- **API Docs**: Swagger UI
+- **Build Tool**: Maven
+- **Java Version**: 17+
