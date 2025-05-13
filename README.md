@@ -36,3 +36,7 @@
 - **API Docs**: Swagger UI
 - **Build Tool**: Maven
 - **Java Version**: 17+
+
+## API Documentation
+
+The application provides Swagger UI for API documentation and testing:
