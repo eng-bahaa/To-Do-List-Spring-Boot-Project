@@ -40,3 +40,19 @@
 ## API Documentation
 
 The application provides Swagger UI for API documentation and testing:
+
+Access interactive API docs at:  
+🔗 [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+
+## Getting Started
+
+### Prerequisites
+- Java JDK 17+
+- Maven 3.6.3+
+- (Optional) IDE (IntelliJ, Eclipse, etc.)
+
+### Installation
+```bash
+git clone https://github.com/yourusername/todo-spring-boot.git
+cd todo-spring-boot
+mvn clean install
